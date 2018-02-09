@@ -1,3 +1,8 @@
 #include <iostream>
 
-using namespace
+using namespace std;
+int  main ()
+{
+    cout<<"hello world 111"<< endl;
+
+}
